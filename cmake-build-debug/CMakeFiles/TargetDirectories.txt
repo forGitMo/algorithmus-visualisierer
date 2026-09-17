@@ -1,0 +1,4 @@
+/Users/moritzamelang/Documents/Uni/Module/Sem6/Fortgeschrittende CPP/Projekt/sdl3_demo/cmake-build-debug/CMakeFiles/SDL3Demo.dir
+/Users/moritzamelang/Documents/Uni/Module/Sem6/Fortgeschrittende CPP/Projekt/sdl3_demo/cmake-build-debug/CMakeFiles/AlgoShell.dir
+/Users/moritzamelang/Documents/Uni/Module/Sem6/Fortgeschrittende CPP/Projekt/sdl3_demo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/moritzamelang/Documents/Uni/Module/Sem6/Fortgeschrittende CPP/Projekt/sdl3_demo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/Users/moritzamelang/Documents/Uni/Module/Sem6/Fortgeschrittende CPP/Projekt/sdl3_demo/cmake-build-debug/_deps/catch2-subbuild/CMakeFiles/catch2-populate.dir
+/Users/moritzamelang/Documents/Uni/Module/Sem6/Fortgeschrittende CPP/Projekt/sdl3_demo/cmake-build-debug/_deps/catch2-subbuild/CMakeFiles/edit_cache.dir
+/Users/moritzamelang/Documents/Uni/Module/Sem6/Fortgeschrittende CPP/Projekt/sdl3_demo/cmake-build-debug/_deps/catch2-subbuild/CMakeFiles/rebuild_cache.dir

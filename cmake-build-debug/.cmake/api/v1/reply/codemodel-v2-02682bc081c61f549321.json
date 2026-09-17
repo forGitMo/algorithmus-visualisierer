@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SDL3Demo",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "AlgoShell::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AlgoShell-Debug-1f18f0d5ae623aadda3a.json",
+					"name" : "AlgoShell",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SDL3Demo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SDL3Demo-Debug-4450cbc93ca25c984afa.json",
+					"name" : "SDL3Demo",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/moritzamelang/Documents/Uni/Module/Sem6/Fortgeschrittende CPP/Projekt/sdl3_demo/cmake-build-debug",
+		"source" : "/Users/moritzamelang/Documents/Uni/Module/Sem6/Fortgeschrittende CPP/Projekt/sdl3_demo"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
